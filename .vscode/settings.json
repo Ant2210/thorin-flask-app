@@ -1,0 +1,14 @@
+{
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:thorin-flask-app}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    },
+    "cSpell.ignoreWords": [
+        "Azanulbizar",
+        "Dwarven"
+    ]
+}
